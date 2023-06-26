@@ -17,7 +17,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&theme=dark"/>
  </div>
 
- ##
+ ## Tecnologias 
 
 <div stile= "display; inline_block"><br/> 
  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
