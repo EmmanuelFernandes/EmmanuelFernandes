@@ -7,7 +7,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelfernandesdepaula/) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fernandes-de-paula-170403-efp/)
 [![blueskyn](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://staging.bsky.app/profile/emmanuelfernandes.bsky.social)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmanuelfernandesdepaula@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/7/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdFPcHzcCjNwcTmFLJvKCpJFlnVjHtCdXWgwpNZpVZbpWjbrxbHLFpRgSmTJqjBfVqXWV)
  
   
   
