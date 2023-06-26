@@ -1,4 +1,4 @@
-- ## Olá! Eu sou o Emmanuel Fernandes
+ ## Olá! Eu sou o Emmanuel Fernandes
 
 - ☁ Entusiasta da Tecnologia 
 - 🌱 Estudando Cloud Computing, Javascript, Phyton e Swift 
