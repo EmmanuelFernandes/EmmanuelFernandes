@@ -1,12 +1,17 @@
 - ## Olá! Eu sou o Emmanuel Fernandes
 
 - ☁ Entusiasta da Tecnologia 
-- 🌱 Estudando Cloud Computing, Javascript e Phyton 
+- 🌱 Estudando Cloud Computing, Javascript, Phyton e Swift 
 - 🤔 Pronoomes: Ele/Dele
+ 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelfernandesdepaula/) 
+[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fernandes-de-paula-170403-efp/)
+ 
+ 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&layout=compact&langs_count=16&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&theme=dark"/>
  </div>
 
  ##
@@ -16,4 +21,5 @@
  <img align="center" alt="AWS" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img align="center" alt="swift" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
