@@ -1,27 +1,24 @@
  ## Olá! Eu sou o Emmanuel Fernandes
 
 
+<h1 align="center">👨‍🚀 Emmanuel Fernandes</h1>
+
 <p align="center">
-☁️ Entusiasta de Tecnologia • 🚀 Futuro Cloud Engineer • 💻 Sempre aprendendo
+☁️ Cloud • 🤖 Tech • 🚀 Future Builder
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;JavaScript+•+Python+•+Swift;Building+the+Future+with+Code" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
-
-- ☁️ Estudando **Cloud Computing**
-- 🌱 Aprendendo **JavaScript, Python e Swift**
-- 🚀 Buscando evoluir todos os dias na área de tecnologia
-- 🎯 Foco em carreira internacional e projetos reais
-
----
-
-### 🌐 Conecte-se comigo
+### 🌐 Network
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/emmanuelfernandesdepaula/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://bsky.app/profile/emmanuelfernandes.bsky.social" target="_blank">
@@ -29,43 +26,43 @@
 </a>
 
 <a href="mailto:EmmanuelFernandesdePaula@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### ⚡ GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFernandes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🧬 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=00F7FF"/>
 
 </p>
 
 ---
 
-### ⚡ Frase que me define
+### 🛰️ Activity Graph
 
 <p align="center">
-"Transformando curiosidade em conhecimento e código em soluções." 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelFernandes&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=footer"/>
 </p>
