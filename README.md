@@ -2,8 +2,7 @@
 
 - ☁ Entusiasta da Tecnologia 
 - 🌱 Estudando Cloud Computing, Javascript, Phyton e Swift 
- 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelfernandesdepaula/) 
+  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fernandes-de-paula-170403-efp/)
 [![blueskyn](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=google-cloud&logoColor=white)](https://staging.bsky.app/profile/emmanuelfernandes.bsky.social)
  <a href = "mailto:EmmanuelFernandesdePaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
