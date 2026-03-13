@@ -1,6 +1,5 @@
  ## Olá! Eu sou o Emmanuel Fernandes
 
-<h1 align="center">👋 Olá, eu sou o Emmanuel Fernandes</h1>
 
 <p align="center">
 ☁️ Entusiasta de Tecnologia • 🚀 Futuro Cloud Engineer • 💻 Sempre aprendendo
