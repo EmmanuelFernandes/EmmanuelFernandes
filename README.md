@@ -1,6 +1,3 @@
- ## Olá! Eu sou o Emmanuel Fernandes
-
-
 <h1 align="center">Emmanuel Fernandes</h1>
 
 <p align="center">
