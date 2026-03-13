@@ -1,26 +1,72 @@
  ## Olá! Eu sou o Emmanuel Fernandes
 
-- ☁ Entusiasta da Tecnologia 
-- 🌱 Estudando Cloud Computing, Javascript, Phyton e Swift 
-  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelfernandesdepaula/)
-[![blueskyn](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=google-cloud&logoColor=white)](https://staging.bsky.app/profile/emmanuelfernandes.bsky.social)
- <a href = "mailto:EmmanuelFernandesdePaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  
-  
- 
- <div>
-  <a href="https://github.com/EmmanuelFernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&theme=dark"/>
- </div>
+<h1 align="center">👋 Olá, eu sou o Emmanuel Fernandes</h1>
 
- ## Tecnologias 
+<p align="center">
+☁️ Entusiasta de Tecnologia • 🚀 Futuro Cloud Engineer • 💻 Sempre aprendendo
+</p>
 
-<div stile= "display; inline_block"><br/> 
- <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
- <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</div>
+---
+
+### 🧠 Sobre mim
+
+- ☁️ Estudando **Cloud Computing**
+- 🌱 Aprendendo **JavaScript, Python e Swift**
+- 🚀 Buscando evoluir todos os dias na área de tecnologia
+- 🎯 Foco em carreira internacional e projetos reais
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/emmanuelfernandesdepaula/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://bsky.app/profile/emmanuelfernandes.bsky.social" target="_blank">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
+
+<a href="mailto:EmmanuelFernandesdePaula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFernandes&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
+</p>
+
+---
+
+### ⚡ Frase que me define
+
+<p align="center">
+"Transformando curiosidade em conhecimento e código em soluções." 🚀
+</p>
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil!
+</p>
